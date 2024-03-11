@@ -1,0 +1,12 @@
+E:\Azure\CrudCategory\CrudCategory\obj\Release\net7.0\PubTmp\Out\CrudCategory.exe
+E:\Azure\CrudCategory\CrudCategory\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+E:\Azure\CrudCategory\CrudCategory\obj\Release\net7.0\PubTmp\Out\appsettings.json
+E:\Azure\CrudCategory\CrudCategory\obj\Release\net7.0\PubTmp\Out\CrudCategory.dll
+E:\Azure\CrudCategory\CrudCategory\obj\Release\net7.0\PubTmp\Out\CrudCategory.deps.json
+E:\Azure\CrudCategory\CrudCategory\obj\Release\net7.0\PubTmp\Out\CrudCategory.runtimeconfig.json
+E:\Azure\CrudCategory\CrudCategory\obj\Release\net7.0\PubTmp\Out\CrudCategory.pdb
+E:\Azure\CrudCategory\CrudCategory\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Azure\CrudCategory\CrudCategory\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+E:\Azure\CrudCategory\CrudCategory\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Azure\CrudCategory\CrudCategory\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Azure\CrudCategory\CrudCategory\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
